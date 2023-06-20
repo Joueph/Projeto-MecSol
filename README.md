@@ -24,7 +24,7 @@ Este é um programa em Python que permite a criação e análise de diagramas de
 
  
 
-'pip install tkinter matplotlib numpy'
+-- pip install tkinter matplotlib numpy
 
 3. Faça o download ou clone este repositório em seu computador.
 4. Navegue até o diretório do projeto no terminal.
@@ -32,7 +32,7 @@ Este é um programa em Python que permite a criação e análise de diagramas de
 
  
 
-'python diagrama_trelicas.py'
+-- python3 Projeto_treliças_2D.py
 
 6. Use a interface gráfica para adicionar pontos, barras, apoios e forças ao diagrama.
 7. Clique no botão “Calcular Forças” para realizar os cálculos e exibir o resultado das forças.
